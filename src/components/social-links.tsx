@@ -69,7 +69,7 @@ const socialLinks: SocialLink[] = [
   {
     name: "Branches",
     nameAr: "الفروع",
-    href: "/branches",
+    href: "https://oceancare.sa/branches/",
     icon: FaMap,
   },
 ];
