@@ -130,5 +130,5 @@
   }
 }
 .animate-gradient {
-  animation: animate-x 5s linear alternate-reverse infinite;
+  animation: animate-x 3s linear alternate-reverse infinite;
 }

@@ -16,7 +16,7 @@ const SocialHeader = ({ lang = "en" }) => {
       transition={{ delay: 0.8, type: "spring" }}
       className="flex justify-center items-center"
     >
-      <h1 className="text-center lead-2 text-wrap py-4 text-3xl font-extrabold  bg-gradient-to-r from-[#1195b3] via-[#d54d8b] to-[#1195b3] bg-clip-text text-transparent animate-gradient bg-[length:150%_150%] overflow-hidden">
+      <h1 className="inline-block text-center lead-2 text-wrap py-4 text-3xl font-[900]  bg-gradient-to-r from-[#1195b3] via-[#d54d8b] to-[#1195b3] bg-clip-text text-transparent animate-gradient bg-size-[300%] overflow-hidden">
         {text}
       </h1>
     </motion.div>
