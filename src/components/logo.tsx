@@ -14,7 +14,7 @@ function Logo() {
       className=" w-30 md:w-40 lg:w-60 p-2 my-4 mx-auto overflow-hidden bg-[#fef5f5] rounded-full"
     >
       <Image
-        src="/ocean-care-Logo.jpg"
+        src="/ocean-care-logo.jpg"
         alt="ocean care logo"
         width={400}
         height={200}
